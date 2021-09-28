@@ -465,7 +465,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "jdgc4db54sy2jk3apocws1"
+				"defaultValue": "jdgc4db54sy2jk3apocws1.sql.azuresynapse.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
